@@ -48,5 +48,5 @@
           	I <- solve(data, ...)
      		x$setInverse(I)
      
-     		mInverse
+     		I
 	}
